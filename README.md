@@ -2,8 +2,11 @@
 You're working in a chess factory. Your mission is to wipe out any chess pieces stay on the board or the machine will crash. You can wipe out chess pieces with the same color by lining 5 of them up in horizontal, vertical or diagonal direction. Some chess piece have DIFFERENT MOVES based on their types. Keep the machine working as long as possible.
 
 Play on web: https://baconxpogo.itch.io/chess-factorio
+
 Hours spent: 60 Hours
+
 Language: C#
+
 Engine: Unity
 
 # Check list
