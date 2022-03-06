@@ -4034,10 +4034,10 @@ RectTransform:
   m_Father: {fileID: 152375994}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 90.64911, y: -90.334595}
-  m_SizeDelta: {x: 88.9627, y: 91.9549}
+  m_AnchorMin: {x: 0.023000002, y: 0.87114817}
+  m_AnchorMax: {x: 0.07047917, y: 0.96029633}
+  m_AnchoredPosition: {x: 1.1491699, y: 0.6654053}
+  m_SizeDelta: {x: -2.0373535, y: -4.045105}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &446048005
 MonoBehaviour:
@@ -4949,7 +4949,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2014458023}
         m_TargetAssemblyTypeName: ReplayPanel, Assembly-CSharp
-        m_MethodName: ResetLevel
+        m_MethodName: GoToMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6911,7 +6911,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: a3a1c28940d668745b18bab61dcea7dd, type: 3}
     m_FontSize: 85
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 0
     m_MaxSize: 300
     m_Alignment: 4
@@ -8314,6 +8314,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.05496216, y: 0.000030517578}
+  m_AnchoredPosition: {x: 0.05493164, y: 0.000030517578}
   m_SizeDelta: {x: 0.10998535, y: 0.89001465}
   m_Pivot: {x: 0.5, y: 0.5}

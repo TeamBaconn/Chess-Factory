@@ -66,8 +66,8 @@ public class ChessPiece : Entity
                 int[] y1 = { 1, 1, -1, -1 };
                 return new MoveSet(x1, y1);
             case PieceType.QUEEN:
-                int[] x2 = { 1, -1, -1, -1, 0, 1, 0, -1 };
-                int[] y2 = { 1, 1, -1, 1, 1, 0, -1, 0 };
+                int[] x2 = { 1, -1, -1, 1, 0, 1, 0, -1 };
+                int[] y2 = { 1, 1, -1, -1, 1, 0, -1, 0 };
                 return new MoveSet(x2, y2); 
             default:
                 return null;
